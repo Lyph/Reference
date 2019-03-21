@@ -22,3 +22,5 @@ DEF TOP
   INST OUTB IO_OUT B
   INST OUTZ IO_OUT Z
 ENDDEF
+
+https://medium.com/curiouscaloo/macos-to-ubuntu-part1-alfred-replacement-7864b4d26397
